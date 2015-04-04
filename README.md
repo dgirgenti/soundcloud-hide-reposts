@@ -7,4 +7,5 @@ bookmarklet (_drag code to bookmarks_): <pre title="Hide Reposts"><code title="H
 
 -
 #### known issues
+- You have to keep clicking the bookmarklet as you scroll
 - Hidden songs still play when autoplaying
