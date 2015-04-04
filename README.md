@@ -1,5 +1,5 @@
 # soundcloud-hide-reposts
-A bookmarklet which hides reposts on SoundCloud
+A bookmarklet which hides those pesky reposts on SoundCloud.
 
 -
 
